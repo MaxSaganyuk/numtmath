@@ -10,7 +10,7 @@ pip install numtmath
 `
 
 ## _Important functions_
-- help() Lists names of all availible functions
+- help() Lists names of all available functions
 - primes(n, amount) (Slow algorithm) outputs prime numbers from 2 to n.
   - If amount = 1 - outpunts n amount of primes
 - basechange(n, frombase, tobase, nonsymb, morealph) Converts a number from one base/radix to another
