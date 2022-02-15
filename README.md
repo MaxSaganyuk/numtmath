@@ -13,6 +13,7 @@ pip install numtmath
 - help() Lists names of all available functions
 - primes(n, amount) (Slow algorithm) outputs prime numbers from 2 to n.
   - If amount = 1 - outpunts n amount of primes
+- getPrimesFromFile() create list with prime numbers from files from 
 - basechange(n, frombase, tobase, nonsymb, morealph) Converts a number from one base/radix to another
   - frombase - original base, 10 is default
   - tobase   - resulting base, 2 is default
