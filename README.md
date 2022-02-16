@@ -11,8 +11,10 @@ pip install numtmath
 
 ## _Important functions_
 - help() Lists names of all available functions
+<img src="readMeImages/1.png"> </img>
 - primes(n, amount) (Slow algorithm) outputs prime numbers from 2 to n.
   - If amount = 1 - outpunts n amount of primes
+<img src="readMeImages/2.png"> </img>
 - getPrimesFromFile() create list with prime numbers from files from 
 - basechange(n, frombase, tobase, nonsymb, morealph) Converts a number from one base/radix to another
   - frombase - original base, 10 is default
