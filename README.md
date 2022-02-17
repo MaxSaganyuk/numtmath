@@ -39,11 +39,17 @@ pip install numtmath
   - show - if 1, uses alternative way to show the result
 
 <img src="readMeFiles/6.png"> </img>
-- gencollatz(n, a, b, top, checkForCicle) tool for Generalized Collatz conjecture 
+- gencollatz(n, a, b, top, checkForCicle) tool for Generalized Collatz conjecture https://en.wikipedia.org/wiki/Collatz_conjecture#Undecidable_generalizations
+  - a - a in formula, check the link
+  - b - b in formula, check the link
+  - top - stops at the largest number
+  - checkForCicle - checks for an infinite loop and stops if discovered
 
 <img src="readMeFiles/7.png"> </img>
 - riemannzeta(n, a, giveall) UNFINISHED 
-- revtaxi(n, am, r)
+- revtaxi(n, am, r) generalized taxicab number checker
+  - am - amount of numbers in a0^r + a1^r + ... + aam^r 
+  - r - r in a0^r + a1^r + ... + an^r
 
 <img src="readMeFiles/8.png"> </img>
 - metanum(num, meta, show)
@@ -53,7 +59,8 @@ pip install numtmath
 
 <img src="readMeFiles/9.png"> </img>
 - contfrac(inp, a, simple) If number is inputed - creates list that represents continued fraction. If list is inputed - ta
-  - l
+  - a - limit the size of the continued fraction
+  - simple - 
 
 <img src="readMeFiles/10.png"> </img>
 - fibbseq(a) returns Fibbonacci sequence in size a
@@ -63,11 +70,10 @@ pip install numtmath
 
 <img src="readMeFiles/12.png"> </img>
 - product(list) multiplies every number in the list
-  - list
 
 <img src="readMeFiles/13.png"> </img>
 - disintseq(seq, show)
-  - seq - 
+  - seq - inputed sequence
   - show - if 1, uses alternative way to show the result
 
 <img src="readMeFiles/14.png"> </img>
