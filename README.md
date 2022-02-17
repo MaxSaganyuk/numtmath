@@ -94,6 +94,8 @@ pip install numtmath
 <img src="readMeFiles/17.png"> </img>
 - sigmamatrix(n, bases, morealph, base1, show) shows result for sigma project in a "matrix" form
 
+<img src="readMeFiles/18.png"> </img>
+
 ## _LateX functions_
 Requires pylatex to work, so they are seperated to other version of the module numtmath_latex.py. Can't be installed by pip - download form this repository
 - contfractex(inp, a) creats pdf file with continued fraction
